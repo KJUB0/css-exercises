@@ -1,0 +1,16 @@
+/* styles.css */
+.sprostosti {
+    font-size: 28px
+    font-family: Arial, 'Times New Roman', sans-serif;
+}
+
+#aba{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#abb {
+    background-color: yellow;
+
+}
